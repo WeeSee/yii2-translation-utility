@@ -1,0 +1,17 @@
+{
+    "name": "WeeSee/yii2-translation-utility",
+    "description": "Small PHP command line utility to translate Yii2 messages",
+    "keywords": ["Yii2", "translate", "php"],
+    "license": "MIT",
+    "homepage": "https://github.com/WeeSee/yii2-translation-utility",
+    "authors": [
+        {
+            "name": "WeeSee",
+            "email": "weesee@web.de"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0",
+		"stichoza/google-translate-php": "~3.2"
+    }
+}

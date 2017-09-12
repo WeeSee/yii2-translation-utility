@@ -3,6 +3,16 @@ Yii2 translation utility
 
 This PHP script helps to create or update translations of Yii2 message files.
 
+The script runs on the command line and ...
+
+* reads allsource input files in Yii2 message folder (source language),
+* shows a message in source language,
+* shows the translated messge in the target language (if available),
+* shows a google translated message,
+* gets user input of translated message (new message or google translated message),
+* saves translated messages in the target language folder
+
+
 # Installation
 
 You need to have PHP (>=5.4) and [Composer](http://composer.org) installed.

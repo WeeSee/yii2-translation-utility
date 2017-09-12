@@ -60,4 +60,8 @@ translated messages.
 
 weezee@web.de
 
-# Licence
+# Disclaimer
+
+This software is developed for educational purposes only. It is based on the repo [Stichoza/google-translate-php](https://github.com/Stichoza/google-translate-php). Do not depend on this package as it may break anytime as it is based on crawling the Google Translate website. Consider buying Official Google Translate API for other types of usage.
+
+Also, Google might ban your server IP or require to solve CAPTCHA if you send unusual traffic (large amount of data/requests).

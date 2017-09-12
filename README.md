@@ -55,11 +55,6 @@ If your Yii2 message path is in your current folder, the script runs as follows:
 That's it. You've got a new transled file in ```./messages/en``` or the file is updated with the new
 translated messages.
 
-
-# Author
-
-weezee@web.de
-
 # Disclaimer
 
 This software is developed for educational purposes only. It is based on the repo [Stichoza/google-translate-php](https://github.com/Stichoza/google-translate-php). Do not depend on this package as it may break anytime as it is based on crawling the Google Translate website. Consider buying Official Google Translate API for other types of usage.

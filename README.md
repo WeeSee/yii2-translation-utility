@@ -5,7 +5,7 @@ This PHP script helps to create or update translations of Yii2 message files.
 
 # Installation
 
-You need to have PHP (>=5.4) and (Composer)[http://composer.org) installed.
+You need to have PHP (>=5.4) and [Composer](http://composer.org) installed.
 
 Then get the required libraries:
 
@@ -26,7 +26,7 @@ If your Yii2 message path is in your current folder, the script runs as follows:
 	Target language (de) [en]
 	Use Google Translate service (y/N) [y]
 	14 files found in ./messages
-	Translate source file ./messages/de/app-band.php (y/N/.=>End)? [N]y
+	Translate source file ./messages/de/app-band.php (y/N/.=>End)? [N] ```y```
 	Source file contains 11 messages
 	Translation file contains 11 messages
 	---

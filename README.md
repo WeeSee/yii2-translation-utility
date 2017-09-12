@@ -1,7 +1,7 @@
 Yii2 translation utility
 ========================
 
-This PHP script helps to create or update translations of Yii2 message files.
+This PHP script helps to quickly create or update translations of Yii2 message files.
 
 The script runs on the command line and ...
 
@@ -12,6 +12,7 @@ The script runs on the command line and ...
 * gets user input of translated message (new message or google translated message),
 * saves translated messages in the target language folder
 
+This utility does not have to installed in the Yii2 folder. Install it anywhere outside (e.g. in a user ./tmp folder).
 
 # Installation
 
